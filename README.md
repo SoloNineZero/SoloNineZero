@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="Swift" width="40" height="40"/>&nbsp;
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoloNineZero=github_dark)

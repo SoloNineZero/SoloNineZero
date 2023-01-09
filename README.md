@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Languages and tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> title="Swift" width="40" height="40"/>&nbsp;

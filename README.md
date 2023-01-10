@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoloNineZero&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoloNineZero&theme=github_dark)

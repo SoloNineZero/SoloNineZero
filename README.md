@@ -30,7 +30,10 @@ Here are some ideas to get you started:
 ### Languages and tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="Swift" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" width="40" height="40"/>&nbsp;
+          
+          
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoloNineZero&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoloNineZero&theme=github_dark)

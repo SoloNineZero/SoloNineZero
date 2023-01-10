@@ -10,8 +10,8 @@
 </div>
 
 ### About me
-- 🌱 I'm currently learning Swift, specifically UIKit
-- 🤔 I’m currently learning English
+- 🧠 I'm currently learning Swift, specifically UIKit
+- 📖 I’m currently learning English
 
 <!--
 **SoloNineZero/SoloNineZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

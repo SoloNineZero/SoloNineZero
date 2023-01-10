@@ -1,9 +1,9 @@
-<div id="header" align="center">
+<div id="header">
 	<h1>Hi there, I'm Igor Solodyankin</h1>
 	<h3>iOS-developer from Chelyabinsk</h3>
 </div>
 
-<div id="socials" align="center">
+<div id="socials">
 	<a href="https://t.me/solodyankinie">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>

@@ -10,7 +10,7 @@
 </div>
 
 ### About me
-- 🧠 I'm currently learning Swift, specifically UIKit
+- 🧠 I'm currently learning Swift, specifically UIKit, SwiftUI
 - 📖 I’m currently learning English
 
 <!--
@@ -37,6 +37,6 @@ Here are some ideas to get you started:
           
           
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoloNineZero&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoloNineZero&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SoloNineZero&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoloNineZero&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoloNineZero&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SoloNineZero&theme=github&utcOffset=8)

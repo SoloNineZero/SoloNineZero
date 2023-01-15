@@ -12,6 +12,7 @@
 ### About me
 - 🧠 I'm currently learning Swift, specifically UIKit, SwiftUI
 - 📖 I’m currently learning English
+- 👨🏻‍💻 I like to write code
 
 <!--
 **SoloNineZero/SoloNineZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,9 +35,6 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="40" height="40"/>&nbsp;
           
-          
-          
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoloNineZero&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoloNineZero&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SoloNineZero&theme=github&utcOffset=8)
